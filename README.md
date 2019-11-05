@@ -1,10 +1,10 @@
 # CS 1C Group Project - 2D Graphics Modeler, Inc.
-## Due Tuesday, December 3, 2019
+## Due The Week of December 9, 2019
 
 See [Canvas](https://ivc.instructure.com/courses/29570/assignments/432581) for more details.
 
 ## Requirements:
-- [ ] 10 [User Stories](https://docs.google.com/document/d/11SipLutjPjCpkd7EqmDIZyedwFQUsqCJABHykVbEUrE/edit?usp=sharing)
+- [x] 10 [User Stories](https://docs.google.com/document/d/11SipLutjPjCpkd7EqmDIZyedwFQUsqCJABHykVbEUrE/edit?usp=sharing)
 ### General:
 - [ ] Exception Handlers
 ### Qt:
